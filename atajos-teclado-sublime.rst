@@ -19,7 +19,7 @@ Editando
 +-----------------+-----------------------------------------------------------+
 | ⌘ + L           | Seleccionar línea - Repetir para seleccionar siguientes   |
 +-----------------+-----------------------------------------------------------+
-| ⌘ + D           | Seleccionar palabra - Repetir para elegir siguiente occurrencia            |
+| ⌘ + D           | Seleccionar palabra - Repetir para elegir otra occurrencia|
 +-----------------+-----------------------------------------------------------+
 | ⌃ + ⌘ + G       | Select all occurrences of current selection               |
 +-----------------+-----------------------------------------------------------+
