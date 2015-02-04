@@ -1,16 +1,11 @@
-.. sublime: wordWrap false
-
-Keyboard Shortcuts - OSX
+Atajos de teclados para Sublime Text 3 - OSX
 ==================================
 
-.. warning::
-    This topic is a draft and may contain wrong information.
-
-Editing
+Editando
 -------
 
 +-----------------+-----------------------------------------------------------+
-| Keypress        | Command                                                   |
+| Teclas          | Comandos                                                  |
 +=================+===========================================================+
 | ⌘ + X           | Cut line                                                  |
 +-----------------+-----------------------------------------------------------+
