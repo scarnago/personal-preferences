@@ -7,19 +7,19 @@ Editando
 +-----------------+-----------------------------------------------------------+
 | Teclas          | Comandos                                                  |
 +=================+===========================================================+
-| ⌘ + X           | Cut line                                                  |
+| ⌘ + X           | Cortar línea                                              |
 +-----------------+-----------------------------------------------------------+
-| ⌘ + ↩           | Insert line after                                         |
+| ⌘ + ↩           | Insertar línea después                                    |
 +-----------------+-----------------------------------------------------------+
-| ⌘ + ⇧ + ↩       | Insert line before                                        |
+| ⌘ + ⇧ + ↩       | Insertar línea antes                                      |
 +-----------------+-----------------------------------------------------------+
-| ⌘ + ⌃ + ↑       | Move line/selection up                                    |
+| ⌘ + ⌃ + ↑       | Mover línea/selección arriba                              |
 +-----------------+-----------------------------------------------------------+
-| ⌘ + ⌃ + ↓       | Move line/selection down                                  |
+| ⌘ + ⌃ + ↓       | Mover línea/selección abajo                               |
 +-----------------+-----------------------------------------------------------+
-| ⌘ + L           | Select line - Repeat to select next lines                 |
+| ⌘ + L           | Seleccionar línea - Repetir para seleccionar siguientes   |
 +-----------------+-----------------------------------------------------------+
-| ⌘ + D           | Select word - Repeat to select next occurrence            |
+| ⌘ + D           | Seleccionar palabra - Repetir para elegir siguiente occurrencia            |
 +-----------------+-----------------------------------------------------------+
 | ⌃ + ⌘ + G       | Select all occurrences of current selection               |
 +-----------------+-----------------------------------------------------------+
